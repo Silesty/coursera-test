@@ -13,7 +13,7 @@
 			font-style: italic;
 			font-family: sans-serif;
 			font-weight: bold;
-            width: 400px;
+            width: 380px;
             
 
 		}
